@@ -1,0 +1,5 @@
+Code performance explained
+
+
+
+It was mostly about Blackfire and also a general overview of some other tools. Easy read.
